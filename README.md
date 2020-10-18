@@ -10,6 +10,6 @@ and the open folder client and run this following script :
 
 ```npm run serve```
 
-and thats it.
+and that's it. Thank You.
 
 created by kurniawan yusuf wahyudin, based on the assignment given.
