@@ -13,3 +13,5 @@ and the open folder client and run this following script :
 and that's it. Thank You.
 
 created by kurniawan yusuf wahyudin, based on the assignment given.
+
+![alt text](https://github.com/kuy14/testGigaming/blob/main/Screenshot1.jpg "Screenshot 1")
