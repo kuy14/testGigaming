@@ -1,0 +1,123 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.row {
+  display: flex;
+}
+.cont-1 {
+  width: 50%;
+}
+.cont-2 {
+  width: 50%;
+  margin-top: 20px;
+}
+.btn-player {
+  width: 40%;
+  margin-bottom: 20px;
+  border-radius: 10px;
+  background-color: #fff;
+  padding: 8px;
+  border: 2px solid #000;
+  transition: 0.5s;
+}
+.btn-player:hover {
+  box-shadow: 0 0 5px #9e9e9ecc;
+  background-color: #5d5d5d;
+  color: #fff;
+}
+.btn-player:disabled {
+  background-color: #ef5350;
+  color: #000;
+  cursor: not-allowed;
+}
+.btn-save-player {
+  width: 40%;
+  margin: 20px 0 5px 0;
+  border-radius: 10px;
+  padding: 8px;
+  border: 2px solid #000;
+  transition: 0.5s;
+  background-color: #fff;
+}
+.btn-save-player:hover {
+  box-shadow: 0 0 5px #9e9e9ecc;
+  color: #000;
+  background-color: #29b6f6;
+}
+.text-name {
+  width: 36.5%;
+  margin-top: 10px;
+  border-radius: 10px;
+  padding: 10px;
+  border: 2px solid #000;
+}
+.btn-play {
+  width: 40%;
+  border-radius: 10px;
+  padding: 8px;
+  border: 2px solid #000;
+  transition: 0.5s;
+  background-color: #fff;
+}
+.btn-play:hover {
+  box-shadow: 0 0 5px #9e9e9ecc;
+  color: #000;
+  background-color: #66bb6a;
+}
+.btn-play:disabled {
+  background-color: #ef5350;
+  color: #000;
+  cursor: not-allowed;
+}
+.cont-point {
+  display: flex;
+}
+.box-player {
+  width: 30%;
+  border: 2px solid #000;
+  text-align: center;
+  margin-right: 10px;
+}
+.box-name {
+  background-color: #000;
+  color: #fff;
+  padding: 10px 0 5px 0;
+}
+.box-point h1 {
+  font-size: 80px;
+  margin: 20px 0 0 0;
+}
+.round-box {
+  border: 2px solid #000;
+  width: 62%;
+  margin-top: 10px;
+  text-align: center;
+}
+.btn-choose {
+  background-color: #fff;
+  border: 2px solid #000;
+  padding: 10px;
+  border-radius: 5px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+  transition: 0.5s;
+}
+.btn-choose:hover {
+  box-shadow: 0 0 5px #9e9e9ecc;
+  color: #000;
+  background-color: #29b6f6;
+}
+.btn-restart {
+  width: 40%;
+  border-radius: 10px;
+  padding: 8px;
+  border: 2px solid #000;
+  transition: 0.5s;
+  background-color: #fff;
+}
+.btn-restart:hover {
+  box-shadow: 0 0 5px #9e9e9ecc;
+  color: #000;
+  background-color: #66bb6a;
+}
